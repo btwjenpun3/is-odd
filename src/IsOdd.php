@@ -1,8 +1,10 @@
 <?php
 
+namespace Kaia\IsOdd;
+
 class IsOdd
 {
-    public function isOdd(int $number): bool
+    public static function check(int $number): bool
     {
         return $number % 2 !== 0;
     }
