@@ -19,5 +19,5 @@ Now you can use it into your PHP project
 ```bash
   use Kaia\IsOdd;
 
-  IsOdd::check($integer) // IsOdd::check(714) <= return false
+  IsOdd::check($integer); // IsOdd::check(714) will return false
 ```
