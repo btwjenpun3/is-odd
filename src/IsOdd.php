@@ -1,6 +1,6 @@
 <?php
 
-namespace Kaia\IsOdd;
+namespace Kaia;
 
 class IsOdd
 {
