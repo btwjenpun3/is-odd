@@ -1,0 +1,19 @@
+{
+    "name": "kaia/is-odd",
+    "description": "Simple PHP package for check if the number is odd or not",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kaia\\IsOdd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhamad Helmi",
+            "email": "muhamadkelmi@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}

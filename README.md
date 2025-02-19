@@ -1,0 +1,7 @@
+# Introduction
+
+I know this package is weird, but i created this because i want to learn to create my first PHP package and publish on Packagist.
+
+# About
+
+This is just simple tool to check if the number is odd or not, and return boolean.
